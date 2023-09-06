@@ -11,6 +11,7 @@ urls=(
   https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
 )
 
 # download all files in parallel and append them to input.csv
